@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.
+
+using UnityEngine;
 
 namespace HutongGames.PlayMaker.Actions
 {
